@@ -1,6 +1,4 @@
 # Palindrome
-
-Application Description
 This application checks if the number entered by the user is Palindrome. In all cases, the application returns a message such as:
 "The number is Palindrome"
 "The number is not Palindrome"
