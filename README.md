@@ -8,7 +8,7 @@ or in case of an error "An error occurred while processing your request. Please,
 
 The Palindrome application was built using:
 
-.Net Framework
-ASP MVC
-WEB API
+.Net Framework,
+ASP MVC,
+WEB API,
 JavaScript / JQuery 
